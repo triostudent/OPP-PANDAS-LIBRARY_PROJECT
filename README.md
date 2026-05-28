@@ -33,6 +33,3 @@ pip install pandas
 python code/student_dataframe.py
 ```
 
-## References
-- https://pandas.pydata.org/docs
-- https://github.com/pandas-dev/pandas
