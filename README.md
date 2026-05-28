@@ -8,8 +8,8 @@ Object-Oriented Programming — BS Data Science, 2nd Semester
 ## Group Members
 | Name      | Student ID |
 |-----------|------------|
-| M. Sami   | [F25BDATA1M020]  |
-| M. Shziab | [F25BDATSS1M02100]  |
+| M. Sami   | [F25BDATA1M02100]  |
+| M. Shziab | [F25BDATSS1M02$$$]  |
 | M. Dawood | [F25BDATS1M02075]  |
 
 ## Library Chosen
